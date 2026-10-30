@@ -1,2 +1,20 @@
 .DS_Store
 */.DS_Store
+
+# Python env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# local files
+z_*.*
+
+# Data csv files
+# backend/data
+
+# logs
+logs/
+backend/logs

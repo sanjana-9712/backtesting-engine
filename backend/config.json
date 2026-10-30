@@ -1,0 +1,24 @@
+{
+    "market_data_csv": {
+        "directory": "/Users/user1/Desktop/projects/backtesting-engine/backend/data/",
+        "filename": "NIFTY50 01-jan-24 to 31-dec-25.csv"
+    },
+    "costs": {
+        "slippage": 0.01,
+        "delivery": {
+            "brokerage": 0.0,
+            "exchange": 0.00307,
+            "sebi": 0.0001,
+            "dp": 0,
+            "stt": 0.1,
+            "stampduty": 0.015,
+            "gst": 18
+        }
+    },
+    "logs": {
+        "log_directory": "/Users/sanjanagupta/Desktop/Sanjana/projects/backtesting-engine/logs",
+        "file": "backtest.log",
+        "level": "INFO",
+        "logger_name": "backtest-logger"
+    }
+}
