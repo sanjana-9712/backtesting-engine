@@ -14,11 +14,5 @@
             "stampduty": 0.015,
             "gst": 18
         }
-    },
-    "logs": {
-        "log_directory": "/Users/sanjanagupta/Desktop/Sanjana/projects/backtesting-engine/logs",
-        "file": "backtest.log",
-        "level": "INFO",
-        "logger_name": "backtest-logger"
     }
 }
